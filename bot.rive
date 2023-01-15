@@ -1,0 +1,38 @@
+// conversation script is below
+// "start" auto-runs to begin the bot conversation 
+
++ start 
+- Bonjour. je suis Aida un programe 100% fabrikademy , comment pourrais-je vous aider?
+
++ *
+- Pardon, j'ai pas bien compris.
+- Dsl, j'ai pas bien saisis votre question
+- pouvez-vous formuler autrement
+
++ salam
++ saha
++ bonjour
+- bonjour monsieur madame comment pourrais-je vous aider?
+
++ comment vas tu 
++ weshraki
+- Bien, Merci de demander!
+
++ je veux ouvrir un compte 
++ habit neftah compte
+- clickez sur s' enregister en haut sur le bouton orange en dessous de l'ordinateur
+
++ je veux pas enregistrer en ligne 
++ mahabitch enregistrer en ligne
+- contacter notre call center aux  3319 pour prendre rendez vous chez l agence la plus proche.
+
++ quelles sont vos heures d overture
+- du dimanche au jeudi de 8h30 à 17h au numéro suivant: 3319  
+
++ comment vous contacter
+-appelez nous aux 3319, pour les Résidents à l étranger le numéro suivant; 213 21 98 11 30
+
++ je veux une carte visa
++ habit carta visa
+- etes vous déja client si oui; contacter notre call center au 3319
+
